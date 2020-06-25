@@ -1,5 +1,5 @@
-var username = "konpan1006@gmail.com"
-var password = "orangepark9398!"
+var username = ""
+var password = ""
 
 var casper = require('casper').create({
 	verbose: true,
